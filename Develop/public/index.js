@@ -4,7 +4,7 @@ if ("serviceWorker" in navigator) {
       console.log("We found your service worker file!", reg);
       });
     });
-}
+  }
 
 let transactions = [];
 let myChart;
